@@ -1,0 +1,6 @@
+.group > .title,
+.h5p-li > .list-item-title-bar {
+  background: red;
+  border: 1px solid #636164;
+  height: 38px;
+}
