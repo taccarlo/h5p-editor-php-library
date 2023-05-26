@@ -170,7 +170,7 @@ H5PEditor.language.core = {
   title: 'Title',
   metadata: 'Metadata',
   addTitle: 'Add title',
-  usedForSearchingReportsAndCopyrightInformation: 'Used for searching, reports and copyright information',
+  usedForSearchingReportsAndCopyrightInformation: 'Sono riuscito a modificare con successo questa stringa',
   metadataSharingAndLicensingInfo: 'Metadata (sharing and licensing info)',
   fillInTheFieldsBelow: 'Fill in the fields below',
   saveMetadata: 'Save metadata',
